@@ -14,6 +14,16 @@ from planning_python.heuristic_functions import EuclideanHeuristicNoAng
 from planning_python.state_lattices import XYAnalyticLattice
 from planning_python.environment_interface import Env2D
 
+sys.path.insert(0, "../../planning_python")
+sys.path.insert(0, "../../planning_python/planning_python/data_structures")
+sys.path.insert(0, "../../planning_python/planning_python/planners")
+sys.path.insert(0, "../../planning_python/planning_python/cost_functions")
+sys.path.insert(0, "../../planning_python/planning_python/heuristic_functions")
+sys.path.insert(0, "../../planning_python/planning_python/state_lattices")
+sys.path.insert(0, "../../planning_python/planning_python/environment_interface")
+sys.path.insert(0, "../../planning_python/planning_python/utils")
+sys.path.insert(0, "../../planning_python/planning_python/test")
+sys.path.insert(0, "../../planning_python/planning_python/state_lattices/common_lattice")
 
 #Set some environment parameters
 x_lims = [0, 201]
