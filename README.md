@@ -3,8 +3,7 @@
 **********
 
 Official repository containing OpenAI Gym environments, agents and ML models for the CoRL paper [Learning Heuristic Search via Imitation](https://arxiv.org/pdf/1707.03034.pdf)
-
-### Презентация по проекту - https://docs.google.com/presentation/d/1fLwei7BGBp9R2mv4ZMXZS499SyxUVChI8Ywpfgrbodo/edit?usp=sharing
+Презентация по проекту - https://docs.google.com/presentation/d/1fLwei7BGBp9R2mv4ZMXZS499SyxUVChI8Ywpfgrbodo/edit?usp=sharing
 
 # Инструкция по установке
 ## изначально проект написан на python version 2 -> мы переписали его на python 3
