@@ -7,7 +7,7 @@ Official repository containing OpenAI Gym environments, agents and ML models for
 Презентация по проекту - https://docs.google.com/presentation/d/1fLwei7BGBp9R2mv4ZMXZS499SyxUVChI8Ywpfgrbodo/edit?usp=sharing
 
 # Инструкция по установке
-###### изначально проект написан на python version 2 -> мы переписали его на python 3
+###### изначально проект написан на python version 2 -> мы переписали его на python 3 (https://github.com/SmolkinaJulia/heuristic_learning_mipt_2022)
 One you have installed the required external dependencies (favorably in a virtualenv), you need to execute the following steps in order to get started with the examples.
 
  - Create a meta folder for the project ``mkdir ~/heuristic_learning `` 
